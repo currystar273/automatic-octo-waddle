@@ -14,5 +14,5 @@ custom: # Replace with up to 4 custom sponsorship URLs e.g., ['https://api.sandb
 -H "Content-Type: application/json" \
 -H "Accept: application/json"  \
 -d "{
-  "email": "jsmith2@paypal.com"
+  "email": "curryjamison80@paypal.com"
 }"', 'link2']
